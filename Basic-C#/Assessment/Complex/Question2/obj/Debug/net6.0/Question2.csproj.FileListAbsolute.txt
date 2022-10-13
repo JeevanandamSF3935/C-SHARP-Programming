@@ -1,0 +1,15 @@
+D:\Training\C#\Assesment\Complex\Question2\bin\Debug\net6.0\Question2.exe
+D:\Training\C#\Assesment\Complex\Question2\bin\Debug\net6.0\Question2.deps.json
+D:\Training\C#\Assesment\Complex\Question2\bin\Debug\net6.0\Question2.runtimeconfig.json
+D:\Training\C#\Assesment\Complex\Question2\bin\Debug\net6.0\Question2.dll
+D:\Training\C#\Assesment\Complex\Question2\bin\Debug\net6.0\Question2.pdb
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.csproj.AssemblyReference.cache
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.AssemblyInfoInputs.cache
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.AssemblyInfo.cs
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.csproj.CoreCompileInputs.cache
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.dll
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\refint\Question2.dll
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.pdb
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\Question2.genruntimeconfig.cache
+D:\Training\C#\Assesment\Complex\Question2\obj\Debug\net6.0\ref\Question2.dll

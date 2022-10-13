@@ -1,0 +1,15 @@
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\bin\Debug\net6.0\OnlineFoodOrder.exe
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\bin\Debug\net6.0\OnlineFoodOrder.deps.json
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\bin\Debug\net6.0\OnlineFoodOrder.runtimeconfig.json
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\bin\Debug\net6.0\OnlineFoodOrder.dll
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\bin\Debug\net6.0\OnlineFoodOrder.pdb
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.csproj.AssemblyReference.cache
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.AssemblyInfoInputs.cache
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.AssemblyInfo.cs
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.csproj.CoreCompileInputs.cache
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.dll
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\refint\OnlineFoodOrder.dll
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.pdb
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\OnlineFoodOrder.genruntimeconfig.cache
+D:\Training\C#\Home_Assignment\Advanced\ConsoleApplication\OnlineFoodOrder\obj\Debug\net6.0\ref\OnlineFoodOrder.dll
