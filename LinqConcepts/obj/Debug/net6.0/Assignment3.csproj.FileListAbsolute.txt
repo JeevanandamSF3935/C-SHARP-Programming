@@ -1,0 +1,15 @@
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\bin\Debug\net6.0\Assignment3.exe
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\bin\Debug\net6.0\Assignment3.deps.json
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\bin\Debug\net6.0\Assignment3.dll
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\bin\Debug\net6.0\Assignment3.pdb
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.dll
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\refint\Assignment3.dll
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.pdb
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
+C:\Users\JeevanandamPerumal\OneDrive - Syncfusion\Desktop\C-SHARP-Programming\LinqConcepts\obj\Debug\net6.0\ref\Assignment3.dll

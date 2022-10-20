@@ -16,7 +16,7 @@ namespace Assignment3;
         public List<TraineeScore> ScoreDetails { get; set; }
         public int YearPassedOut { get; set; }
         public int TotalScore { get; set; }
-
+        public int DeptID { get; set; }
     }
 
     /// <summary>
@@ -27,12 +27,6 @@ namespace Assignment3;
         public string TopicName { get; set; }
         public string ExerciseName { get; set; }
         public int Mark { get; set; }
-
-        public static TraineeScore operator +(TraineeScore a,TraineeScore b){
-        TraineeScore sum = new TraineeScore();
-        sum.Mark = a.Mark + b.Mark;
-        return sum;
-    }
     }
 
     /// <summary>
@@ -44,7 +38,7 @@ namespace Assignment3;
         {
             List<TraineeDetails> traineeDetails = new List<TraineeDetails>
             {
-                new TraineeDetails { TraineeId ="SF2001" , TraineeName = "Dhinesh" , DOJ ="16/07/2019" , YearPassedOut = 2019,
+                new TraineeDetails { TraineeId ="SF2001" , TraineeName = "Rekha" , DOJ ="16/07/2019" , YearPassedOut = 2019,DeptID = 1,
                                      ScoreDetails = new List<TraineeScore>
                                      {
                                          new TraineeScore {TopicName="HTML",ExerciseName="HTML Elements", Mark=5 },
@@ -57,7 +51,7 @@ namespace Assignment3;
                                      }
                 },
 
-                new TraineeDetails { TraineeId ="SF2002" , TraineeName = "Dheepa" , DOJ ="17/08/2019" , YearPassedOut = 2019,
+                new TraineeDetails { TraineeId ="SF2002" , TraineeName = "Dheepa" , DOJ ="17/08/2019" , YearPassedOut = 2019,DeptID = 2,
                                      ScoreDetails = new List<TraineeScore>
                                      {
                                          new TraineeScore {TopicName="HTML",ExerciseName="HTML Elements", Mark=2 },
@@ -70,7 +64,7 @@ namespace Assignment3;
                                      }
                 },
 
-                new TraineeDetails { TraineeId ="SF2003" , TraineeName = "Mani" , DOJ ="18/08/2019" , YearPassedOut = 2018,
+                new TraineeDetails { TraineeId ="SF2003" , TraineeName = "Yuvaraj" , DOJ ="18/08/2019" , YearPassedOut = 2018,DeptID = 1,
                                      ScoreDetails = new List<TraineeScore>
                                      {
                                          new TraineeScore {TopicName="HTML",ExerciseName="HTML Elements", Mark=4 },
@@ -83,7 +77,7 @@ namespace Assignment3;
                                      }
                 },
 
-                new TraineeDetails { TraineeId ="SF2004" , TraineeName = "Ram" , DOJ ="17/08/2019" , YearPassedOut = 2019,
+                new TraineeDetails { TraineeId ="SF2004" , TraineeName = "Ram" , DOJ ="17/08/2019" , YearPassedOut = 2019,DeptID = 2,
                                      ScoreDetails = new List<TraineeScore>
                                      {
                                          new TraineeScore {TopicName="HTML",ExerciseName="HTML Elements", Mark=2 },
@@ -96,7 +90,7 @@ namespace Assignment3;
                                      }
                 },
 
-                new TraineeDetails { TraineeId ="SF2005" , TraineeName = "Rekha" , DOJ ="17/08/2019" , YearPassedOut = 2018,
+                new TraineeDetails { TraineeId ="SF2005" , TraineeName = "Dhinesh" , DOJ ="17/08/2019" , YearPassedOut = 2018,
                                      ScoreDetails = new List<TraineeScore>
                                      {
                                          new TraineeScore {TopicName="HTML",ExerciseName="HTML Elements", Mark=5 },
