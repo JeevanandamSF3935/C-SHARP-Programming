@@ -311,6 +311,7 @@ class Program
         }
 
         //LeftOuterJoin
+        System.Console.WriteLine("LeftOuterJoin");
         var trainees5 = from data in obj1.GetDepartments() join data1 in obj.GetTraineeDetails() 
                         on data.ID equals data1.DeptID into groupedTrainee
                         from d in groupedTrainee.DefaultIfEmpty()
